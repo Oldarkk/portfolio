@@ -12,14 +12,10 @@ Welcome to my GitHub portfolio! I'm Aiman, a software developer in training with
   Universiti Teknologi MARA, 2023
 
 ## 🔨 Projects
-1. ** Project: Face Recognition Attendance System**  
+1. **Project: Face Recognition Attendance System**  
    Description:  I'm creating a simple face recognition attendance system with Python coding.
    Technologies: Python, Pycharm 
    
-
-## 📝 Blog
-- [Link to your blog or articles, if applicable]
-
 ## 📫 Contact
 - **Email:** mohdaimnn@gmail.com
 - **LinkedIn:** www.linkedin.com/in/mohdaimnn
